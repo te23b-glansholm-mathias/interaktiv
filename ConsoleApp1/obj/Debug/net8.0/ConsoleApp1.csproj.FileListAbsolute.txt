@@ -12,3 +12,4 @@ c:\Users\mathias.glansholm\Documents\programmering 1\Luck\interaktiv\ConsoleApp1
 c:\Users\mathias.glansholm\Documents\programmering 1\Luck\interaktiv\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 c:\Users\mathias.glansholm\Documents\programmering 1\Luck\interaktiv\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 c:\Users\mathias.glansholm\Documents\programmering 1\Luck\interaktiv\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+c:\Users\mathias.glansholm\Documents\programmering 1\Luck\interaktiv\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
